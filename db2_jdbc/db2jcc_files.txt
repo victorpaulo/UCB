@@ -1,3 +1,5 @@
+#List of JDBC Drivers needed for UCD to connect to DB2
+
 db2jcc.jar
 db2jcc4.jar
 db2jcc_license_cu.jar
